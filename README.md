@@ -10,3 +10,4 @@
 Ednilsoncau/Ednilsoncau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hi, I'm @Ednilsoncau. I'm interested in learning new things, and currently, I'm learning about various topics. I'm looking to collaborate on exciting projects where I can contribute and grow. You can reach me through [insert your preferred contact method here]. Pronouns: [insert your preferred pronouns here]. Fun fact: <!--- Ednilsoncau/Ednilsoncau is a special++ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
